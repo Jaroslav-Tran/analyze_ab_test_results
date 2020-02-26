@@ -35,5 +35,5 @@ None of the variables have significant p-values. We will fail to reject the null
 
 Overall conclusion is that there is not a sufficient proof suggesting that the new page leads to a better conversion rate than the old page.
 
-You can access the interactive version on my binder <a href ="https://mybinder.org/v2/gh/Jaroslav-Tran/investigate-doc-appointments/master"> here.</a>
+You can access the interactive version on my binder <a href ="https://hub.gke.mybinder.org/user/jaroslav-tran-a-ab_test_results-ga2j2wsa/tree"> here.</a>
 
