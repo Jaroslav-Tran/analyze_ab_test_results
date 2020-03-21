@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jaroslav-Tran/analyze_ab_test_results/master)
 # analyze_ab_test_results
 Udacity Data Analyst Nanodegree AB testing project
 
